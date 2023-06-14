@@ -1,0 +1,3 @@
+# Description
+
+This project focused on creating a match management system for sports events. The system allows the association manager to manage matches played by different clubs, handle fan attendance, and ensure smooth operations during the matches. The project involved designing an Entity-Relationship Diagram (ERD) and translating it into a corresponding relational schema. The system implemented various functionalities, including adding and deleting clubs, stadiums, and fans, as well as managing match requests, tickets, and user access. Additionally, basic data retrieval and viewing capabilities were implemented, allowing users to fetch information about association managers, club representatives, stadiums, fans, matches, and tickets.
